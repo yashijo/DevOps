@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author YashwantJoshi
+ *
+ */
+module TestJavaProject {
+	
+}
